@@ -1,10 +1,13 @@
-### Hi there 👋
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=5001&pause=1010&random=false&width=750&lines=Hola+yo+soy+Luis+Pereira%2C+soy+Desarrollador+Web+%F0%9F%91%8B;Hi+I+'m+Luis+Pereira%2C+I+'m+a+Web+Developer+" alt="Typing SVG" /></a>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPereira-20)](https://github.com/LuisPereira-20/github-readme-stats)
+</div>
 <!--
 **LuisPereira-20/LuisPereira-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
